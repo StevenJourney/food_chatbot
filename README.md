@@ -2,7 +2,7 @@
 Credit to: codebasics
 URL Linnk: https://www.youtube.com/watch?v=R-AG4-qZs1A&t=5s&ab_channel=codebasics
 
-Watch the demo video at here: https://youtu.be/rzWuJLJwrxY
+Watch my demo video at here: https://youtu.be/rzWuJLJwrxY
 ![image](https://github.com/user-attachments/assets/36818e53-16ce-45c0-b9a6-a47a3ed2da5f)
 
 Tool: Dialogflow - Python - FastAPI - MySQL
